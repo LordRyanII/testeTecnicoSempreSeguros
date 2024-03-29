@@ -7,6 +7,7 @@
 - _PHP >= 8.0_ e [extensões](https://www.php.net/manual/pt_BR/extensions.php) (**não esquecer de instalar as seguintes extensões: _pdo_, _pdo_sqlite_ e _sqlite3_**);
 - _SQLite_;
 - _Composer_.
+- Digitar no terminal: php -S localhost:8000
 
 ### Instalação
 
